@@ -39,7 +39,13 @@ public class FrequencyCounter {
         }
     } // Метод для подсчета букв английского алфавита и сохранения данных в hashmap
 
-    public void writeFrequencyToFile(File curOutputFile) throws IOException {
+    public void writeFrequencyToFile(File curOutputFile) throws FileNotFoundException {
+        if(!curOutputFile.isFile()) {
+            throw new FileNotFoundException(curOutputFile + " не является файлом");
+        }
+        if(!curOutputFile.canWrite()) {
+            throw new FileNotFoundException("Файл " + curOutputFile + " не может быть изменен для записи");
+        }
         try (PrintWriter wr = new PrintWriter(curOutputFile)) {
             wr.print(lettersMap);
         }
