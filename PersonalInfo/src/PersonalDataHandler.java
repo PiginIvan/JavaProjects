@@ -49,14 +49,14 @@ public class PersonalDataHandler {
         if(age < 0) {
             throw new DateTimeException("Введена некорректная дата рождения");
         }
-        if(age % 10 == 0 || age % 10 >= 5) {
-            agePrefix = "лет";
-        }
-        else if(age % 10 == 1) {
+        if(age % 10 == 1 && (age / 10) % 10 != 1) {
             agePrefix = "год";
         }
-        else {
+        else if ((age % 10 == 2 || age % 10 == 3 || age % 10 == 4) && (age / 10) % 10 != 1){
             agePrefix = "года";
+        }
+        else {
+            agePrefix = "лет";
         }
     } // определение возраста человека
 
