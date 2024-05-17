@@ -1,0 +1,187 @@
+Input number of elevators: 2
+Input number of floors: 10
+Input number of elevator size: 2
+Input number of calls: 10
+Count of delivered persons: 0
+Current state of all elevators:
+Elevator 1 state:  curFloor: 0, curSize: 0, finishFloor: 0, hasTarget: false, isMoving: false
+Elevator 2 state:  curFloor: 0, curSize: 0, finishFloor: 0, hasTarget: false, isMoving: false
+
+Count of delivered persons: 0
+New person from: 4 to: 6 was defined to: Elevator 1 state:  curFloor: 0, curSize: 0, finishFloor: 4, hasTarget: true, isMoving: true
+
+Current state of all elevators:
+Elevator 1 state:  curFloor: 0, curSize: 0, finishFloor: 4, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 0, curSize: 0, finishFloor: 0, hasTarget: false, isMoving: false
+
+Count of delivered persons: 0
+Current state of all elevators:
+Elevator 1 state:  curFloor: 0, curSize: 0, finishFloor: 4, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 0, curSize: 0, finishFloor: 0, hasTarget: false, isMoving: false
+
+Count of delivered persons: 0
+New person from: 6 to: 2 was defined to: Elevator 1 state:  curFloor: 1, curSize: 0, finishFloor: 4, hasTarget: true, isMoving: true
+
+Current state of all elevators:
+Elevator 1 state:  curFloor: 1, curSize: 0, finishFloor: 4, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 0, curSize: 0, finishFloor: 0, hasTarget: false, isMoving: false
+
+Count of delivered persons: 0
+Current state of all elevators:
+Elevator 1 state:  curFloor: 2, curSize: 0, finishFloor: 4, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 0, curSize: 0, finishFloor: 0, hasTarget: false, isMoving: false
+
+Count of delivered persons: 0
+New person from: 7 to: 8 was defined to: Elevator 1 state:  curFloor: 2, curSize: 0, finishFloor: 4, hasTarget: true, isMoving: true
+
+Current state of all elevators:
+Elevator 1 state:  curFloor: 2, curSize: 0, finishFloor: 4, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 0, curSize: 0, finishFloor: 0, hasTarget: false, isMoving: false
+
+Count of delivered persons: 0
+Current state of all elevators:
+Elevator 1 state:  curFloor: 3, curSize: 0, finishFloor: 4, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 0, curSize: 0, finishFloor: 0, hasTarget: false, isMoving: false
+
+Count of delivered persons: 0
+New person from: 2 to: 1 was defined to: Elevator 2 state:  curFloor: 0, curSize: 0, finishFloor: 0, hasTarget: false, isMoving: false
+
+Current state of all elevators:
+Elevator 1 state:  curFloor: 4, curSize: 1, finishFloor: 6, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 0, curSize: 0, finishFloor: 2, hasTarget: true, isMoving: true
+
+Count of delivered persons: 0
+Current state of all elevators:
+Elevator 1 state:  curFloor: 5, curSize: 0, finishFloor: 6, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 0, curSize: 0, finishFloor: 2, hasTarget: true, isMoving: true
+
+Count of delivered persons: 0
+New person from: 7 to: 6 was defined to: Elevator 1 state:  curFloor: 5, curSize: 0, finishFloor: 6, hasTarget: true, isMoving: true
+
+Current state of all elevators:
+Elevator 1 state:  curFloor: 5, curSize: 0, finishFloor: 6, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 1, curSize: 0, finishFloor: 2, hasTarget: true, isMoving: true
+
+Count of delivered persons: 0
+Current state of all elevators:
+Elevator 1 state:  curFloor: 6, curSize: 2, finishFloor: 2, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 2, curSize: 1, finishFloor: 1, hasTarget: true, isMoving: true
+
+Count of delivered persons: 1
+New person from: 7 to: 2 was defined to: Elevator 1 state:  curFloor: 5, curSize: 0, finishFloor: 2, hasTarget: true, isMoving: true
+
+Current state of all elevators:
+Elevator 1 state:  curFloor: 5, curSize: 0, finishFloor: 2, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 1, curSize: 1, finishFloor: 2, hasTarget: true, isMoving: true
+
+Count of delivered persons: 2
+Current state of all elevators:
+Elevator 1 state:  curFloor: 4, curSize: 0, finishFloor: 2, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 1, curSize: 1, finishFloor: 2, hasTarget: true, isMoving: true
+
+Count of delivered persons: 2
+New person from: 3 to: 8 was defined to: Elevator 1 state:  curFloor: 4, curSize: 0, finishFloor: 2, hasTarget: true, isMoving: true
+
+Current state of all elevators:
+Elevator 1 state:  curFloor: 4, curSize: 0, finishFloor: 2, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 2, curSize: 1, finishFloor: 1, hasTarget: true, isMoving: true
+
+Count of delivered persons: 2
+Current state of all elevators:
+Elevator 1 state:  curFloor: 3, curSize: 1, finishFloor: 2, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 1, curSize: 1, finishFloor: 2, hasTarget: true, isMoving: true
+
+Count of delivered persons: 3
+New person from: 7 to: 3 was defined to: Elevator 2 state:  curFloor: 1, curSize: 1, finishFloor: 2, hasTarget: true, isMoving: true
+
+Current state of all elevators:
+Elevator 1 state:  curFloor: 2, curSize: 1, finishFloor: 8, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 1, curSize: 1, finishFloor: 2, hasTarget: true, isMoving: true
+
+Count of delivered persons: 4
+Current state of all elevators:
+Elevator 1 state:  curFloor: 2, curSize: 1, finishFloor: 8, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 2, curSize: 1, finishFloor: 1, hasTarget: true, isMoving: true
+
+Count of delivered persons: 4
+New person from: 4 to: 5 was defined to: Elevator 1 state:  curFloor: 3, curSize: 0, finishFloor: 8, hasTarget: true, isMoving: true
+
+Current state of all elevators:
+Elevator 1 state:  curFloor: 3, curSize: 0, finishFloor: 8, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 1, curSize: 1, finishFloor: 7, hasTarget: true, isMoving: true
+
+Count of delivered persons: 5
+Current state of all elevators:
+Elevator 1 state:  curFloor: 4, curSize: 1, finishFloor: 8, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 2, curSize: 0, finishFloor: 7, hasTarget: true, isMoving: true
+
+Count of delivered persons: 5
+New person from: 7 to: 4 was defined to: Elevator 1 state:  curFloor: 4, curSize: 1, finishFloor: 8, hasTarget: true, isMoving: true
+
+All calls have been generated!
+Current state of all elevators:
+Elevator 1 state:  curFloor: 5, curSize: 1, finishFloor: 8, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 2, curSize: 0, finishFloor: 7, hasTarget: true, isMoving: true
+
+Count of delivered persons: 6
+Current state of all elevators:
+Elevator 1 state:  curFloor: 5, curSize: 1, finishFloor: 8, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 3, curSize: 0, finishFloor: 7, hasTarget: true, isMoving: true
+
+Count of delivered persons: 6
+Current state of all elevators:
+Elevator 1 state:  curFloor: 6, curSize: 0, finishFloor: 8, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 4, curSize: 0, finishFloor: 7, hasTarget: true, isMoving: true
+
+Count of delivered persons: 6
+Current state of all elevators:
+Elevator 1 state:  curFloor: 7, curSize: 2, finishFloor: 8, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 4, curSize: 0, finishFloor: 7, hasTarget: true, isMoving: true
+
+Count of delivered persons: 6
+Current state of all elevators:
+Elevator 1 state:  curFloor: 7, curSize: 2, finishFloor: 8, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 5, curSize: 0, finishFloor: 7, hasTarget: true, isMoving: true
+
+Count of delivered persons: 6
+Current state of all elevators:
+Elevator 1 state:  curFloor: 8, curSize: 2, finishFloor: 6, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 6, curSize: 0, finishFloor: 7, hasTarget: true, isMoving: true
+
+Count of delivered persons: 8
+Current state of all elevators:
+Elevator 1 state:  curFloor: 7, curSize: 2, finishFloor: 6, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 7, curSize: 1, finishFloor: 6, hasTarget: true, isMoving: true
+
+Count of delivered persons: 8
+Current state of all elevators:
+Elevator 1 state:  curFloor: 6, curSize: 1, finishFloor: 2, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 7, curSize: 1, finishFloor: 6, hasTarget: true, isMoving: true
+
+Count of delivered persons: 9
+Current state of all elevators:
+Elevator 1 state:  curFloor: 6, curSize: 1, finishFloor: 2, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 6, curSize: 0, finishFloor: 6, hasTarget: false, isMoving: false
+
+Count of delivered persons: 9
+Current state of all elevators:
+Elevator 1 state:  curFloor: 5, curSize: 0, finishFloor: 2, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 6, curSize: 0, finishFloor: 6, hasTarget: false, isMoving: false
+
+Count of delivered persons: 9
+Current state of all elevators:
+Elevator 1 state:  curFloor: 4, curSize: 1, finishFloor: 2, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 6, curSize: 0, finishFloor: 6, hasTarget: false, isMoving: false
+
+Count of delivered persons: 9
+Current state of all elevators:
+Elevator 1 state:  curFloor: 3, curSize: 1, finishFloor: 2, hasTarget: true, isMoving: true
+Elevator 2 state:  curFloor: 6, curSize: 0, finishFloor: 6, hasTarget: false, isMoving: false
+
+Count of delivered persons: 10
+Current state of all elevators:
+Elevator 1 state:  curFloor: 2, curSize: 0, finishFloor: 2, hasTarget: false, isMoving: false
+Elevator 2 state:  curFloor: 6, curSize: 0, finishFloor: 6, hasTarget: false, isMoving: false
+
+
+Process finished with exit code 0
